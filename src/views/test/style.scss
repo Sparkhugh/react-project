@@ -1,0 +1,12 @@
+.sea{
+	color:seagreen;
+}
+.red{
+	color:darkred;
+}
+.stateBox{
+	display: flex;
+	>div{
+		flex:1;
+	}
+}
